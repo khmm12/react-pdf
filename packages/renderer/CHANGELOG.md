@@ -1,5 +1,14 @@
 # @react-pdf/renderer
 
+## 2.1.2
+
+### Patch Changes
+
+- Updated dependencies [[`e938df0`](https://github.com/diegomura/react-pdf/commit/e938df0857642707b10b7f65f17ed22dc394ac1b)]:
+  - @react-pdf/primitives@3.0.0
+  - @react-pdf/layout@2.1.2
+  - @react-pdf/render@2.1.1
+
 ## 2.1.1
 
 ### Patch Changes
